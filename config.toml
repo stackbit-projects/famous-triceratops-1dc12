@@ -1,0 +1,20 @@
+languageCode = "en-us"
+title = "Dopetrope"
+baseURL = ""
+theme = "dopetrope"
+themesDir = "themes"
+publishDir = "public"
+
+[params.portfolio]
+title = "My Portfolio"
+foldername = "portfolio"
+findoutmoretext = "Find out more"
+
+[params.blog]
+title = "The Blog"
+viewalltext = "View All"
+foldername = "blog"
+
+[params.settings]
+googleanalytics = ""
+disqus = ""
